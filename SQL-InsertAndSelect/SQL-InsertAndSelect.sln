@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL-InsertAndSelect", "SQL-InsertAndSelect\SQL-InsertAndSelect.csproj", "{35D9D098-5003-419D-A20A-73CDABE1C453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL-InsertAndSelect.Tests", "SQL-InsertAndSelect.Tests\SQL-InsertAndSelect.Tests.csproj", "{4DA93D2F-D146-4ECA-B92D-714BFB430F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D9D098-5003-419D-A20A-73CDABE1C453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D9D098-5003-419D-A20A-73CDABE1C453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D9D098-5003-419D-A20A-73CDABE1C453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D9D098-5003-419D-A20A-73CDABE1C453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA93D2F-D146-4ECA-B92D-714BFB430F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA93D2F-D146-4ECA-B92D-714BFB430F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA93D2F-D146-4ECA-B92D-714BFB430F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA93D2F-D146-4ECA-B92D-714BFB430F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2030F8DF-CB30-45E3-AD86-C4475512EFD8}
+	EndGlobalSection
+EndGlobal
