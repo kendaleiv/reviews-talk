@@ -6,7 +6,7 @@
 
 ✅ Comment to ask questions using approachable language (rather than *you should/must do this*)
 
-✅ Approachable language (~~❌ You should ...~~)
+✅ Approachable language (~~You should ...~~)
 
 ✅ Be kind
 
