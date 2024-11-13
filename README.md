@@ -4,6 +4,6 @@ For software engineers who work with others, providing excellent reviews is an i
 
 ---
 
-Slides begin at [slide-01](slide-01.md).
+Slides begin at [slide-01.md](slide-01.md).
 
 License: MIT License
