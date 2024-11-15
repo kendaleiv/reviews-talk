@@ -6,8 +6,6 @@
 
 ✅ Comment to ask questions using approachable language (rather than *you should/must do this*)
 
-✅ Approachable language (~~You should ...~~)
-
 ✅ Be kind
 
 ✅ Offer to help / do the work (suggestion feature, or even pull request the pull request branch)
